@@ -1,7 +1,7 @@
 # Power-Ups para Asteroides
 
 ## 1. Escudo Temporal
-Rodea la nave con un círculo de energía que absorbe un impacto de asteroide. Dura ~5 segundos o hasta recibir un golpe.
+Rodea la nave con un círculo de energía que absorbe un impacto de asteroide. Dura ~7 segundos o hasta recibir un golpe.
 
 ## 2. Disparo Triple
 En vez de un proyectil, la nave dispara 3 balas en abanico simultáneamente. Ideal para limpiar grupos de asteroides rápido. Dura ~10 segundos.
