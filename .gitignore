@@ -1,0 +1,26 @@
+# Variables de entorno
+.env
+.env.*
+
+# Logs
+*.log
+
+# Dependencias (por si más adelante usas npm)
+node_modules/
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Cachés
+.cache/
+
+# VS Code (opcional)
+.vscode/
+
+# JetBrains/WebStorm (opcional)
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
