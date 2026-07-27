@@ -1,0 +1,1 @@
+El objetivo es que creemos nuestro propio juego de Arkanoid. Usando HTML, CSS y JavaScript y las personans puedan jugar el juego.
